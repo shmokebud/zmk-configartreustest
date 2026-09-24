@@ -18,5 +18,5 @@
 #
 ---
 include:
-  - board: supermini_nrf52840//zmk
+  - board: supermini_nrf52840
     shield: atreus62
